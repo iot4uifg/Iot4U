@@ -1,4 +1,9 @@
-//Exemplo 3 - Comandos de repetição
+/**********
+  Projeto IOT4U
+  IFG Campus Goiânia
+  Autor:    Matheus Yosimura
+  Objetivo: Programa sobre comando de repetição
+*********/
 
 int x=0; 
 
