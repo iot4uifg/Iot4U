@@ -1,4 +1,9 @@
-//Exemplo 2 - Condicional if/else
+/**********
+  Projeto IOT4U
+  IFG Campus Goiânia
+  Autor:    Matheus Yosimura
+  Objetivo: Programa sobre testes condicionais
+*********/
 
 //Declaração da variável x
 int x=8; 
