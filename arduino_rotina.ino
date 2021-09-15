@@ -1,4 +1,9 @@
-//Exemplo 4 - Criando funções
+/**********
+  Projeto IOT4U
+  IFG Campus Goiânia
+  Autor:    Matheus Yosimura
+  Objetivo: Programa de criação de uma rotina
+*********/
 
 int x=0; 
 
@@ -8,9 +13,9 @@ void setup()
   pinMode(11,OUTPUT);
 }
 
-//Função para somar +1
+//Rotina para somar + 1
 int atecinco(int a){
-	while(a<5){
+	while(a < 5){
       a=a+1;
       digitalWrite(12,HIGH);
       delay(500);
